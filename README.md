@@ -1,0 +1,2 @@
+# Hybrid-GRU-LSTM-with-Integrated-Fundamental-and-Technical-Analysis-for-Stock-Price-Prediction
+This repository contains the implementation of a Hybrid GRU-LSTM model that integrates fundamental and technical analysis for improved stock price prediction. The model leverages the strengths of Gated Recurrent Units (GRU) and Long Short-Term Memory (LSTM) networks to capture both short-term dependencies and long-term trends in stock market data.

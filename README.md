@@ -29,5 +29,5 @@ The model is evaluated using:
 
 ✔ **Mean Squared Error (MSE)**  
 ✔ **Root Mean Squared Error (RMSE)**  
-✔ **Mean Absolute Error (MAE)**
-✔ **Mean Absolute Percentage Error (MAPE)**
+✔ **Mean Absolute Error (MAE)**  
+✔ **Mean Absolute Percentage Error (MAPE)**  
